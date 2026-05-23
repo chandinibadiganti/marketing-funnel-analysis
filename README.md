@@ -101,14 +101,13 @@ marketing-funnel-analysis/
 ├── README.md
 ├── bank-full.csv
 ├── Marketing Funnel Dashboard.twb
-├── screenshots/
-│   ├── dashboard_full.png
-│   ├── conversion_distribution.png
-│   ├── channel_performance.png
-│   ├── campaign_analysis.png
-│   ├── age_analysis.png
-│   ├── dataset_preview.png
-│   └── tableau_workspace.png
+├── dashboard_full.png
+├── conversion_distribution.png
+├── channel_performance.png
+├── campaign_analysis.png
+├── age_analysis.png
+├── dataset_preview.png
+└── tableau_workspace.png
 ```
 
 ---
